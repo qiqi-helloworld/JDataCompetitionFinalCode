@@ -13,9 +13,20 @@
 - cache: 缓存目录(interval data save path)
 - sub: 结果目录(submission file save path)
 
-- gen_ui_feat: ui feature generate
-- ui_feat_ensemble.py: ui model execute py
+---------------------user model----------------------------
+- user_model.py: user model execute py, single model.
+- user_feat.py: user feature generate py.
+--------------------ui model---------------------------
+- gen_ui_feat.py: ui feature generate py.
+- ui_feat_ensemble.py: ui model execute py, model based on feature improtance weight ensemble.
 
-## 使用说明
+-------------------------results----------------------------
+- function.py: self-define function used in results ensemble and offline test.
+- sub.py: sub file generate py.
 
-python train.py
+## 使用说明(execute order):
+Notice: Step by Step, and the process time would cost few hours.
+python user_model.py
+python ui_feat_ensemble.py
+python sub.py
+
