@@ -16,6 +16,7 @@
 ---------------------user model----------------------------
 - user_model.py: user model execute py, single model.
 - user_feat.py: user feature generate py.
+
 --------------------ui model---------------------------
 - gen_ui_feat.py: ui feature generate py.
 - ui_feat_ensemble.py: ui model execute py, model based on feature improtance weight ensemble.
@@ -26,7 +27,7 @@
 
 ## 使用说明(execute order):
 Notice: Step by Step, and the process time would cost few hours.
-python user_model.py
-python ui_feat_ensemble.py
-python sub.py
+- python user_model.py
+- python ui_feat_ensemble.py
+- python sub.py
 
