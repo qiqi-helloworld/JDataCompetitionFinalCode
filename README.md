@@ -1,4 +1,4 @@
-# JDataCompetitionFinalCode
+
 # JDATA算法大赛(JDATA Algorithm Competition) 
 
 ## 依赖库(Dependent Package)
