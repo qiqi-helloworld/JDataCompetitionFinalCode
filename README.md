@@ -1,13 +1,13 @@
 # JDataCompetitionFinalCode
-# JDATA算法大赛
+# JDATA算法大赛(JDATA Algorithm Competition) 
 
-## 依赖库
+## 依赖库(Dependent Package)
 
 - pandas
 - sklearn
 - xgboost
 
-## 项目结构
+## 项目结构(Project Structure)
 
 - data: 储存数据目录(raw data save path)
 - cache: 缓存目录(interval data save path)
