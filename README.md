@@ -1,5 +1,5 @@
 
-# [JDATA算法大赛(JDATA Algorithm Competition) ](https://www.datafountain.cn/projects/jdata/)
+# [JDATA算法大赛(JDATA Algorithm Competition) ](https://jdata.jd.com/html/detail.html?id=1)
 
 
 ## 依赖库(Dependent Package)
